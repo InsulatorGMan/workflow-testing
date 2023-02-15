@@ -1,3 +1,3 @@
 import colored
 
-print(colored.fg('red') + 'Hello World!)
+print(colored.fg('red') + 'Hello World!')
